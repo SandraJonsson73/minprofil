@@ -1,0 +1,5 @@
+
+# SQLite-databas skapas vid uppstart
+*.db
+*.db-shm
+*.db-wal
